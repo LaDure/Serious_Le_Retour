@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: 688368786eed87946a69be0a644eefe1
+timeCreated: 1507651529
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: altere002
+    100002: altere003
+    100004: altere004
+    100006: altere005
+    100008: altere006
+    100010: altere01
+    100012: appareil_abdos
+    100014: ballon_pilate
+    100016: banc_suedois
+    100018: cone_bleu
+    100020: cone_bleu001
+    100022: cone_bleu002
+    100024: cone_bleu003
+    100026: cone_jaune
+    100028: cone_jaune001
+    100030: cone_jaune002
+    100032: cone_rouge
+    100034: cone_rouge001
+    100036: cone_rouge002
+    100038: cone_rouge003
+    100040: cone_vert
+    100042: cone_vert001
+    100044: cone_vert002
+    100046: cone_vert003
+    100048: espaliers
+    100050: espaliers001
+    100052: espaliers002
+    100054: espaliers003
+    100056: Piece_04
+    100058: //RootNode
+    100060: tableau
+    100062: tapis_course
+    400000: altere002
+    400002: altere003
+    400004: altere004
+    400006: altere005
+    400008: altere006
+    400010: altere01
+    400012: appareil_abdos
+    400014: ballon_pilate
+    400016: banc_suedois
+    400018: cone_bleu
+    400020: cone_bleu001
+    400022: cone_bleu002
+    400024: cone_bleu003
+    400026: cone_jaune
+    400028: cone_jaune001
+    400030: cone_jaune002
+    400032: cone_rouge
+    400034: cone_rouge001
+    400036: cone_rouge002
+    400038: cone_rouge003
+    400040: cone_vert
+    400042: cone_vert001
+    400044: cone_vert002
+    400046: cone_vert003
+    400048: espaliers
+    400050: espaliers001
+    400052: espaliers002
+    400054: espaliers003
+    400056: Piece_04
+    400058: //RootNode
+    400060: tableau
+    400062: tapis_course
+    2300000: altere002
+    2300002: altere003
+    2300004: altere004
+    2300006: altere005
+    2300008: altere006
+    2300010: altere01
+    2300012: appareil_abdos
+    2300014: ballon_pilate
+    2300016: banc_suedois
+    2300018: cone_bleu
+    2300020: cone_bleu001
+    2300022: cone_bleu002
+    2300024: cone_bleu003
+    2300026: cone_jaune
+    2300028: cone_jaune001
+    2300030: cone_jaune002
+    2300032: cone_rouge
+    2300034: cone_rouge001
+    2300036: cone_rouge002
+    2300038: cone_rouge003
+    2300040: cone_vert
+    2300042: cone_vert001
+    2300044: cone_vert002
+    2300046: cone_vert003
+    2300048: espaliers
+    2300050: espaliers001
+    2300052: espaliers002
+    2300054: espaliers003
+    2300056: Piece_04
+    2300058: tableau
+    2300060: tapis_course
+    3300000: altere002
+    3300002: altere003
+    3300004: altere004
+    3300006: altere005
+    3300008: altere006
+    3300010: altere01
+    3300012: appareil_abdos
+    3300014: ballon_pilate
+    3300016: banc_suedois
+    3300018: cone_bleu
+    3300020: cone_bleu001
+    3300022: cone_bleu002
+    3300024: cone_bleu003
+    3300026: cone_jaune
+    3300028: cone_jaune001
+    3300030: cone_jaune002
+    3300032: cone_rouge
+    3300034: cone_rouge001
+    3300036: cone_rouge002
+    3300038: cone_rouge003
+    3300040: cone_vert
+    3300042: cone_vert001
+    3300044: cone_vert002
+    3300046: cone_vert003
+    3300048: espaliers
+    3300050: espaliers001
+    3300052: espaliers002
+    3300054: espaliers003
+    3300056: Piece_04
+    3300058: tableau
+    3300060: tapis_course
+    4300000: tapis_course
+    4300002: espaliers
+    4300004: espaliers001
+    4300006: espaliers002
+    4300008: espaliers003
+    4300010: banc_suedois
+    4300012: cone_rouge
+    4300014: cone_bleu
+    4300016: cone_vert
+    4300018: cone_jaune
+    4300020: cone_rouge001
+    4300022: cone_rouge002
+    4300024: cone_rouge003
+    4300026: cone_jaune001
+    4300028: cone_jaune002
+    4300030: cone_vert001
+    4300032: cone_vert002
+    4300034: cone_vert003
+    4300036: cone_bleu001
+    4300038: cone_bleu002
+    4300040: cone_bleu003
+    4300042: appareil_abdos
+    4300044: tableau
+    4300046: ballon_pilate
+    4300048: altere01
+    4300050: altere002
+    4300052: altere003
+    4300054: altere004
+    4300056: altere005
+    4300058: altere006
+    4300060: Piece_04
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

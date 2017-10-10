@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: c1505327bc84b1648b18e1b013e1dc54
+timeCreated: 1507651538
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Armoire_entree
+    100002: Biblio_01
+    100004: Chaise_002
+    100006: Chaise_01
+    100008: Cuisine_01
+    100010: Lampe_Chevet_003
+    100012: Meuble_Chambre
+    100014: Meuble_Cuisine_Haut
+    100016: Meuble_entree
+    100018: Piece_01
+    100020: Porte_002
+    100022: Porte_003
+    100024: Porte_Cadre_005
+    100026: //RootNode
+    100028: Table_Basse_01
+    100030: Table_manger_01
+    100032: Tele_01
+    400000: Armoire_entree
+    400002: Biblio_01
+    400004: Chaise_002
+    400006: Chaise_01
+    400008: Cuisine_01
+    400010: Lampe_Chevet_003
+    400012: Meuble_Chambre
+    400014: Meuble_Cuisine_Haut
+    400016: Meuble_entree
+    400018: Piece_01
+    400020: Porte_002
+    400022: Porte_003
+    400024: Porte_Cadre_005
+    400026: //RootNode
+    400028: Table_Basse_01
+    400030: Table_manger_01
+    400032: Tele_01
+    2300000: Armoire_entree
+    2300002: Biblio_01
+    2300004: Chaise_002
+    2300006: Chaise_01
+    2300008: Cuisine_01
+    2300010: Lampe_Chevet_003
+    2300012: Meuble_Chambre
+    2300014: Meuble_Cuisine_Haut
+    2300016: Meuble_entree
+    2300018: Piece_01
+    2300020: Porte_002
+    2300022: Porte_003
+    2300024: Porte_Cadre_005
+    2300026: Table_Basse_01
+    2300028: Table_manger_01
+    2300030: Tele_01
+    3300000: Armoire_entree
+    3300002: Biblio_01
+    3300004: Chaise_002
+    3300006: Chaise_01
+    3300008: Cuisine_01
+    3300010: Lampe_Chevet_003
+    3300012: Meuble_Chambre
+    3300014: Meuble_Cuisine_Haut
+    3300016: Meuble_entree
+    3300018: Piece_01
+    3300020: Porte_002
+    3300022: Porte_003
+    3300024: Porte_Cadre_005
+    3300026: Table_Basse_01
+    3300028: Table_manger_01
+    3300030: Tele_01
+    4300000: Porte_002
+    4300002: Porte_003
+    4300004: Cuisine_01
+    4300006: Tele_01
+    4300008: Table_Basse_01
+    4300010: Table_manger_01
+    4300012: Chaise_01
+    4300014: Chaise_002
+    4300016: Biblio_01
+    4300018: Meuble_Cuisine_Haut
+    4300020: Meuble_Chambre
+    4300022: Porte_Cadre_005
+    4300024: Meuble_entree
+    4300026: Armoire_entree
+    4300028: Lampe_Chevet_003
+    4300030: Piece_01
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: 6d3934801cecea9478f9b69a5df01d11
+timeCreated: 1507651538
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: accoudoir01
+    100002: accoudoir02
+    100004: assise
+    100006: barreAR
+    100008: biblio_195X100X32
+    100010: biblio_195X60X32
+    100012: bureau_01
+    100014: central_pieds
+    100016: coussin_assise
+    100018: coussin_dossier
+    100020: dossier
+    100022: fauteuil_bureau01
+    100024: Lampe_Chevet_004
+    100026: ordi_portable_mac
+    100028: ordi_portable_mac_MeshPart0
+    100030: ordi_portable_mac_MeshPart1
+    100032: Piece_03
+    100034: pied01
+    100036: pied02
+    100038: pied03
+    100040: pied04
+    100042: pied05
+    100044: portable_clavier
+    100046: ressort
+    100048: roue01
+    100050: roue02
+    100052: roue03
+    100054: roue04
+    100056: roue05
+    100058: //RootNode
+    400000: accoudoir01
+    400002: accoudoir02
+    400004: assise
+    400006: barreAR
+    400008: biblio_195X100X32
+    400010: biblio_195X60X32
+    400012: bureau_01
+    400014: central_pieds
+    400016: coussin_assise
+    400018: coussin_dossier
+    400020: dossier
+    400022: fauteuil_bureau01
+    400024: Lampe_Chevet_004
+    400026: ordi_portable_mac
+    400028: ordi_portable_mac_MeshPart0
+    400030: ordi_portable_mac_MeshPart1
+    400032: Piece_03
+    400034: pied01
+    400036: pied02
+    400038: pied03
+    400040: pied04
+    400042: pied05
+    400044: portable_clavier
+    400046: ressort
+    400048: roue01
+    400050: roue02
+    400052: roue03
+    400054: roue04
+    400056: roue05
+    400058: //RootNode
+    2300000: accoudoir01
+    2300002: accoudoir02
+    2300004: assise
+    2300006: barreAR
+    2300008: biblio_195X100X32
+    2300010: biblio_195X60X32
+    2300012: bureau_01
+    2300014: central_pieds
+    2300016: coussin_assise
+    2300018: coussin_dossier
+    2300020: dossier
+    2300022: Lampe_Chevet_004
+    2300024: ordi_portable_mac_MeshPart0
+    2300026: ordi_portable_mac_MeshPart1
+    2300028: Piece_03
+    2300030: pied01
+    2300032: pied02
+    2300034: pied03
+    2300036: pied04
+    2300038: pied05
+    2300040: portable_clavier
+    2300042: ressort
+    2300044: roue01
+    2300046: roue02
+    2300048: roue03
+    2300050: roue04
+    2300052: roue05
+    3300000: accoudoir01
+    3300002: accoudoir02
+    3300004: assise
+    3300006: barreAR
+    3300008: biblio_195X100X32
+    3300010: biblio_195X60X32
+    3300012: bureau_01
+    3300014: central_pieds
+    3300016: coussin_assise
+    3300018: coussin_dossier
+    3300020: dossier
+    3300022: Lampe_Chevet_004
+    3300024: ordi_portable_mac_MeshPart0
+    3300026: ordi_portable_mac_MeshPart1
+    3300028: Piece_03
+    3300030: pied01
+    3300032: pied02
+    3300034: pied03
+    3300036: pied04
+    3300038: pied05
+    3300040: portable_clavier
+    3300042: ressort
+    3300044: roue01
+    3300046: roue02
+    3300048: roue03
+    3300050: roue04
+    3300052: roue05
+    4300000: pied02
+    4300002: roue02
+    4300004: central_pieds
+    4300006: roue01
+    4300008: roue05
+    4300010: roue04
+    4300012: roue03
+    4300014: ressort
+    4300016: pied01
+    4300018: pied05
+    4300020: pied04
+    4300022: pied03
+    4300024: coussin_assise
+    4300026: assise
+    4300028: barreAR
+    4300030: coussin_dossier
+    4300032: dossier
+    4300034: accoudoir02
+    4300036: accoudoir01
+    4300038: bureau_01
+    4300040: biblio_195X100X32
+    4300042: biblio_195X60X32
+    4300044: ordi_portable_mac_MeshPart0
+    4300046: ordi_portable_mac_MeshPart1
+    4300048: portable_clavier
+    4300050: Lampe_Chevet_004
+    4300052: Piece_03
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

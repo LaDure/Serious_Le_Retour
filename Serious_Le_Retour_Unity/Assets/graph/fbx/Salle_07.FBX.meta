@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 6ab220c50a1b30e49bb4d21e72733d10
+timeCreated: 1507651529
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Baffle_01
+    100002: Baffle_02
+    100004: Ecran_Cinema
+    100006: Estrade
+    100008: fauteuil_terrasse004
+    100010: fauteuil_terrasse005
+    100012: fauteuil_terrasse006
+    100014: fauteuil_terrasse007
+    100016: fauteuil_terrasse008
+    100018: fauteuil_terrasse009
+    100020: fauteuil_terrasse010
+    100022: fauteuil_terrasse011
+    100024: fauteuil_terrasse012
+    100026: fauteuil_terrasse013
+    100028: fauteuil_terrasse014
+    100030: fauteuil_terrasse015
+    100032: Piece_07
+    100034: //RootNode
+    100036: Tableau_01
+    100038: Tableau_02
+    100040: Tableau_03
+    100042: Tableau_04
+    400000: Baffle_01
+    400002: Baffle_02
+    400004: Ecran_Cinema
+    400006: Estrade
+    400008: fauteuil_terrasse004
+    400010: fauteuil_terrasse005
+    400012: fauteuil_terrasse006
+    400014: fauteuil_terrasse007
+    400016: fauteuil_terrasse008
+    400018: fauteuil_terrasse009
+    400020: fauteuil_terrasse010
+    400022: fauteuil_terrasse011
+    400024: fauteuil_terrasse012
+    400026: fauteuil_terrasse013
+    400028: fauteuil_terrasse014
+    400030: fauteuil_terrasse015
+    400032: Piece_07
+    400034: //RootNode
+    400036: Tableau_01
+    400038: Tableau_02
+    400040: Tableau_03
+    400042: Tableau_04
+    2300000: Baffle_01
+    2300002: Baffle_02
+    2300004: Ecran_Cinema
+    2300006: Estrade
+    2300008: fauteuil_terrasse004
+    2300010: fauteuil_terrasse005
+    2300012: fauteuil_terrasse006
+    2300014: fauteuil_terrasse007
+    2300016: fauteuil_terrasse008
+    2300018: fauteuil_terrasse009
+    2300020: fauteuil_terrasse010
+    2300022: fauteuil_terrasse011
+    2300024: fauteuil_terrasse012
+    2300026: fauteuil_terrasse013
+    2300028: fauteuil_terrasse014
+    2300030: fauteuil_terrasse015
+    2300032: Piece_07
+    2300034: Tableau_01
+    2300036: Tableau_02
+    2300038: Tableau_03
+    2300040: Tableau_04
+    3300000: Baffle_01
+    3300002: Baffle_02
+    3300004: Ecran_Cinema
+    3300006: Estrade
+    3300008: fauteuil_terrasse004
+    3300010: fauteuil_terrasse005
+    3300012: fauteuil_terrasse006
+    3300014: fauteuil_terrasse007
+    3300016: fauteuil_terrasse008
+    3300018: fauteuil_terrasse009
+    3300020: fauteuil_terrasse010
+    3300022: fauteuil_terrasse011
+    3300024: fauteuil_terrasse012
+    3300026: fauteuil_terrasse013
+    3300028: fauteuil_terrasse014
+    3300030: fauteuil_terrasse015
+    3300032: Piece_07
+    3300034: Tableau_01
+    3300036: Tableau_02
+    3300038: Tableau_03
+    3300040: Tableau_04
+    4300000: Piece_07
+    4300002: Estrade
+    4300004: Ecran_Cinema
+    4300006: fauteuil_terrasse004
+    4300008: fauteuil_terrasse005
+    4300010: fauteuil_terrasse006
+    4300012: fauteuil_terrasse007
+    4300014: fauteuil_terrasse008
+    4300016: fauteuil_terrasse009
+    4300018: fauteuil_terrasse010
+    4300020: fauteuil_terrasse011
+    4300022: fauteuil_terrasse012
+    4300024: fauteuil_terrasse013
+    4300026: fauteuil_terrasse014
+    4300028: fauteuil_terrasse015
+    4300030: Tableau_01
+    4300032: Tableau_02
+    4300034: Tableau_03
+    4300036: Tableau_04
+    4300038: Baffle_01
+    4300040: Baffle_02
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
