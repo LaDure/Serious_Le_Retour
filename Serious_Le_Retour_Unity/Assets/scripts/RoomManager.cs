@@ -5,7 +5,7 @@ using UnityEngine;
 public class RoomManager : MonoBehaviour {
 
     public List<GameObject> rooms;
-    public List<Mesh> meshs;
+    public List<GameObject> meshs;
     public static RoomManager Instance { get; private set; }
 
     private int indexRoom = 0;
@@ -18,7 +18,7 @@ public class RoomManager : MonoBehaviour {
 
     private void UpdateMesh()
     {
-        this.transform.GetComponent<MeshCollider>().sharedMesh = meshs[indexRoom];
+        this.transform.GetComponent<MeshCollider>().sharedMesh = meshs[indexRoom].GetComponent<MeshFilter>().mesh;
     }
 
     public Vector3 GetCurrentRoom()
@@ -28,6 +28,7 @@ public class RoomManager : MonoBehaviour {
 
     public void NextRoom()
     {
+        meshs[indexRoom].SetActive(false);
         ++indexRoom;
         rooms[indexRoom].SetActive(true);
         this.UpdateMesh();
@@ -35,8 +36,9 @@ public class RoomManager : MonoBehaviour {
 
     public void PreviousRoom()
     {
-        --indexRoom;
         rooms[indexRoom].SetActive(false);
+        --indexRoom;
+        meshs[indexRoom].SetActive(true);
         this.UpdateMesh();
     }
 }
