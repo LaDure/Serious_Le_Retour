@@ -3,42 +3,47 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+
 public class GameManager : MonoBehaviour
 {
-    public Text text;
-
     private int day = 1;
+    private int maxDay = 8;
 
     public static GameManager Instance { get; private set; }
 
     private void Awake()
     {
         Instance = this;
-        this.UpdateText();
-    }
-
-    private void UpdateText()
-    {
-        text.text = "Jour " + day.ToString();
+        UIManager.Instance.UpdateText(day);
     }
 
     public void NextDay()
     {
-        if (day + 1 <= 7)
+        if (day + 1 < this.maxDay)
         {
             ++day;
             RoomManager.Instance.NextRoom();
-            this.UpdateText();
-        }                    
+            UIManager.Instance.UpdateText(day);
+        }else if(day + 1 == this.maxDay)
+        {
+            ++day;
+            UIManager.Instance.PopUp();
+            UIManager.Instance.UpdateText(day);
+        }
     }
 
     public void PreviousDay()
     {
-        if (day - 1 > 0)
+        if(day == maxDay)
+        {
+            --day;
+            UIManager.Instance.UpdateText(day);
+        }
+        else if (day - 1 > 0)
         {
             --day;
             RoomManager.Instance.PreviousRoom();
-            this.UpdateText();
+            UIManager.Instance.UpdateText(day);
         }        
     }
 }
