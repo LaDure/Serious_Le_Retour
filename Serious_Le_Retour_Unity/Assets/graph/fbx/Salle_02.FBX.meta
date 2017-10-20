@@ -41,6 +41,7 @@ ModelImporter:
     100066: Table_Basse_01
     100068: Table_Basse_02
     100070: vasque
+    100072: Table_Basse_002
     400000: Armoire
     400002: baignoire
     400004: coffre_Lit
@@ -77,6 +78,7 @@ ModelImporter:
     400066: Table_Basse_01
     400068: Table_Basse_02
     400070: vasque
+    400072: Table_Basse_002
     2300000: Armoire
     2300002: baignoire
     2300004: coffre_Lit
@@ -112,6 +114,7 @@ ModelImporter:
     2300064: Table_Basse_01
     2300066: Table_Basse_02
     2300068: vasque
+    2300070: Table_Basse_002
     3300000: Armoire
     3300002: baignoire
     3300004: coffre_Lit
@@ -147,6 +150,7 @@ ModelImporter:
     3300064: Table_Basse_01
     3300066: Table_Basse_02
     3300068: vasque
+    3300070: Table_Basse_002
     4300000: Meuble_Chambre
     4300002: Cylinder002
     4300004: Cylinder003
@@ -182,6 +186,7 @@ ModelImporter:
     4300064: robinet
     4300066: meuble_sousvasque001
     4300068: Piece_02
+    4300070: Table_Basse_002
     7400000: Take 001
     9500000: //RootNode
   materials:
