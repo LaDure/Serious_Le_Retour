@@ -1,58 +1,32 @@
 fileFormatVersion: 2
-guid: 20394db934d62764ab018c60fb737c0d
-timeCreated: 1507651528
+guid: dd3c4f9789d453a4b911bf838fa4b247
+timeCreated: 1516119647
 licenseType: Free
 ModelImporter:
   serializedVersion: 21
   fileIDToRecycleName:
-    100000: banc_suedois001
-    100002: banc_suedois002
-    100004: banc_suedois003
-    100006: banc_suedois004
-    100008: espaliers004
-    100010: espaliers005
-    100012: Panier_Basket
-    100014: Piece_05
-    100016: //RootNode
-    100018: Basket_field
-    400000: banc_suedois001
-    400002: banc_suedois002
-    400004: banc_suedois003
-    400006: banc_suedois004
-    400008: espaliers004
-    400010: espaliers005
-    400012: Panier_Basket
-    400014: Piece_05
-    400016: //RootNode
-    400018: Basket_field
-    2300000: banc_suedois001
-    2300002: banc_suedois002
-    2300004: banc_suedois003
-    2300006: banc_suedois004
-    2300008: espaliers004
-    2300010: espaliers005
-    2300012: Panier_Basket
-    2300014: Piece_05
-    2300016: Basket_field
-    3300000: banc_suedois001
-    3300002: banc_suedois002
-    3300004: banc_suedois003
-    3300006: banc_suedois004
-    3300008: espaliers004
-    3300010: espaliers005
-    3300012: Panier_Basket
-    3300014: Piece_05
-    3300016: Basket_field
-    4300000: Panier_Basket
-    4300002: banc_suedois001
-    4300004: banc_suedois002
-    4300006: banc_suedois003
-    4300008: banc_suedois004
-    4300010: espaliers004
-    4300012: espaliers005
-    4300014: Piece_05
-    4300016: Basket_field
-    7400000: Take 001
+    100000: Petanque_01
+    100002: Petanque_02
+    100004: Piece_012
+    100006: //RootNode
+    100008: Terrain_Petanque
+    400000: Petanque_01
+    400002: Petanque_02
+    400004: Piece_012
+    400006: //RootNode
+    400008: Terrain_Petanque
+    2300000: Petanque_01
+    2300002: Petanque_02
+    2300004: Piece_012
+    2300006: Terrain_Petanque
+    3300000: Petanque_01
+    3300002: Petanque_02
+    3300004: Piece_012
+    3300006: Terrain_Petanque
+    4300000: Piece_012
+    4300002: Terrain_Petanque
+    4300004: Petanque_01
+    4300006: Petanque_02
     9500000: //RootNode
   materials:
     importMaterials: 1
