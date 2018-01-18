@@ -7,7 +7,7 @@ using UnityEngine.UI;
 public class GameManager : MonoBehaviour
 {
     private int day = 1;
-    private int maxDay = 8;
+    private int maxDay = 16;
 
     public static GameManager Instance { get; private set; }
 

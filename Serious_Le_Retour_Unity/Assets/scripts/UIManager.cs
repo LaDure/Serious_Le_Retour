@@ -9,6 +9,11 @@ public class UIManager : MonoBehaviour {
 
     public Text text;
     public GameObject PopUpReward;
+    
+    public GameObject Main;
+    public GameObject Daily;
+    public GameObject Question;
+
 
     private void Awake()
     {
@@ -30,5 +35,26 @@ public class UIManager : MonoBehaviour {
     {
         this.PopUpReward.SetActive(false);
         Time.timeScale = 1.0f;
+    }
+
+    public void ActiveMain()
+    {
+        this.Main.SetActive(true);
+        this.Daily.SetActive(false);
+        this.Question.SetActive(false);
+    }
+
+    public void ActiveDaily()
+    {
+        this.Main.SetActive(false);
+        this.Daily.SetActive(true);
+        this.Question.SetActive(false);
+    }
+
+    public void ActiveQuestion()
+    {
+        this.Main.SetActive(false);
+        this.Daily.SetActive(false);
+        this.Question.SetActive(true);
     }
 }
