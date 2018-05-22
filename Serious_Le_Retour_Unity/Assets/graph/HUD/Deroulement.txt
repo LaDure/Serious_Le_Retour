@@ -1,0 +1,34 @@
+- Entrée dans l'application
+	- si 1er lancement, choix de la difficulté, facile, medium, hard. Cela appelera des journa differentes selon le niveau choisi (Ecran_00)
+- Passage en revue des logos ( Logo_01 // Logo_02 )
+- Arrivée sur la maison (récupération de la "sauvegarde" pour revenir la où le joueur c'était arrété) + zoom vers l'avant pour dynamiser
+- Click possible sur le bouton du menu pour accéder à sous parties: ( Daily_Button )
+	- voir les missions du jour  * / **  (Ecran_01)
+	- voir l'avancée totale du joueur depuis le début (Ecran_02)
+	- voir les instructions (Ecran_03)
+	- répondre aux question si question il y a (objectif du jour ou pas) (Ecran_04)
+- Lorsque la mission du jour est atteinte, apparition du choix de récompense A ou B (Reward)
+- Après le choix, la récompense est mise en place, zoom vers la nouvelles pièce ou nouvel élément de la scène.
+- Si la mission n'était pas atteinte la veille, remise à zéro de l'objectif journalier.
+
+
+
+
+* Chaque mission sera accompagnée d'une "vérification": 
+		- abdo / planche, on mettra en place un timer qui se lancera pour faire l'exercice, du genre faire la planche pendant 30 sec. (Chrono)
+		- pompes, une question sera posé apres du genre "où avez vous mal?" (Verification)
+		- saut : verif grace à l'accéléro?
+		- marche a pied: verif au gps 
+		- questions, la verif se fera directement via l'onglet questionnaire (Ecran_04)
+
+
+** Les missions du jours étant liées à chaque jour, il se pourra que l'ensemble des activités ne soient pas proposées: 
+	exemple jour 1 : Marche/Saut/Pompes
+	exemple jour 2 : Marche/Planche/Question
+Il faudra donc mettre à jour cette fiche selon les activités au jour le jour (défini dans un document fourni par les chercheurs).
+
+Chaque Journa est associée à un gif:
+		- Planche (plank)
+		- Course à pied (Run)
+		- Monté de marche (Stairs)
+		- Saut (Jump)
