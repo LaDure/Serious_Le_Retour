@@ -1,9 +1,7 @@
 fileFormatVersion: 2
 guid: cb0f65c185e3e6842ba41b5112aa39fa
-timeCreated: 1516117013
-licenseType: Free
 ModelImporter:
-  serializedVersion: 21
+  serializedVersion: 22
   fileIDToRecycleName:
     100000: altere002
     100002: altere003
@@ -893,10 +891,93 @@ ModelImporter:
     4300346: Cage_Foot001
     7400000: Take 001
     9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Meuble_01
+    second: {fileID: 2100000, guid: 615def3fc1fb7ce41b29fbb8f94876ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Meuble_02
+    second: {fileID: 2100000, guid: e22974c5b12284b4f8879bf5be75ba29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Meuble_03
+    second: {fileID: 2100000, guid: 786df7b3d8443c64380541d036fb3f14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Meuble_05
+    second: {fileID: 2100000, guid: 84338f1d4cbed464480dd55548e00e85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Meuble_06
+    second: {fileID: 2100000, guid: 6e1d1272c59b819448b2b8d0e5b5e96c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Murs
+    second: {fileID: 2100000, guid: 9d47bc96b036fba4d92ed73877a47711, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 4e2f8be752d15624a93ac33372f4a3e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sol_01
+    second: {fileID: 2100000, guid: e87282f67484d3a43b04c4324d7d2ca5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sol_02
+    second: {fileID: 2100000, guid: ef1435fdc5cdc95419480249642541a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sol_03
+    second: {fileID: 2100000, guid: 30ec7a11b1c106148a6b169f94906ce6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sol_04
+    second: {fileID: 2100000, guid: a5b3b76b146f7994cbca715317b6287e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sol_05
+    second: {fileID: 2100000, guid: b8b68eb9e3c2b9c4f95c0575560693ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sol_06
+    second: {fileID: 2100000, guid: 4b94e6747b41c754fabc699e807816ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sol_07
+    second: {fileID: 2100000, guid: 26a05cfa00f9b4b48b9c87a3b035aaa9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sol_08
+    second: {fileID: 2100000, guid: 6dc729864d3107e49b97921635419a25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sol_09
+    second: {fileID: 2100000, guid: 39030acf1a32dae47a04ac28de6d36d3, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -909,6 +990,8 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -933,6 +1016,8 @@ ModelImporter:
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88

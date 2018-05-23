@@ -8,16 +8,33 @@ public class GameManager : MonoBehaviour
 {
     private int day = 1;
     private int maxDay = 16;
+    private int difficultLevel = 0;
 
     public static GameManager Instance { get; private set; }
 
     private void Awake()
     {
         Instance = this;
-        UIManager.Instance.UpdateText(day);
+        //UIManager.Instance.UpdateText(day);
+
+        if (isFirstTime())
+        {
+            UIManager.Instance.ChooseDifficult();
+            PlayerPrefs.SetInt("HasPlayed", 1);
+        }
+        else
+        {
+            Transform.FindObjectOfType<CameraBehaviour>().Init();
+            difficultLevel = PlayerPrefs.GetInt("Difficult");
+        }
     }
 
-    public void NextDay()
+    private bool isFirstTime()
+    {
+        return PlayerPrefs.GetInt("HasPlayed") == 0;
+    }
+
+   /* public void NextDay()
     {
         if (day + 1 < this.maxDay)
         {
@@ -45,5 +62,16 @@ public class GameManager : MonoBehaviour
             RoomManager.Instance.PreviousRoom();
             UIManager.Instance.UpdateText(day);
         }        
+    }*/
+
+    public void SetDifficult(int level)
+    {
+        difficultLevel = level;
+        PlayerPrefs.SetInt("Difficult", level);
+        UIManager.Instance.Close();
+        Transform.FindObjectOfType<CameraBehaviour>().Init();
     }
+
+   
+
 }

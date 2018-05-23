@@ -18,7 +18,8 @@ public class RoomBehaviour : MonoBehaviour {
 
     private void OnMouseDrag()
     {
-        this.Translate();
+        if(!UIManager.Instance.InUi)
+            this.Translate();
     }
 
     public void Translate()
