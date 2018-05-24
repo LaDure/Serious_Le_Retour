@@ -60,7 +60,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\scripts\CameraBehaviour.cs" />
+    <Compile Include="Assets\scripts\ChronoBehaviour.cs" />
     <Compile Include="Assets\scripts\GameManager.cs" />
+    <Compile Include="Assets\scripts\PopUpBehaviour.cs" />
     <Compile Include="Assets\scripts\RoomBehaviour.cs" />
     <Compile Include="Assets\scripts\RoomManager.cs" />
     <Compile Include="Assets\scripts\UIManager.cs" />

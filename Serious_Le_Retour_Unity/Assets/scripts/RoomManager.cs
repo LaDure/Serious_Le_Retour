@@ -26,10 +26,11 @@ public class RoomManager : MonoBehaviour {
         return rooms[indexRoom].transform.position;
     }
 
-    public void NextRoom()
+    public void NextRoom(int i)
     {
         meshs[indexRoom].SetActive(false);
         ++indexRoom;
+        indexRoom += i;
         rooms[indexRoom].SetActive(true);
         this.UpdateMesh();
     }
@@ -40,5 +41,10 @@ public class RoomManager : MonoBehaviour {
         --indexRoom;
         meshs[indexRoom].SetActive(true);
         this.UpdateMesh();
+    }
+
+    public void UpIndex()
+    {
+        ++indexRoom;
     }
 }

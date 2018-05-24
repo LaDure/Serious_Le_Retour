@@ -6,7 +6,7 @@ using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
 {
-    private int day = 1;
+    public int day = 1;
     private int maxDay = 16;
     private int difficultLevel = 0;
 
@@ -34,22 +34,23 @@ public class GameManager : MonoBehaviour
         return PlayerPrefs.GetInt("HasPlayed") == 0;
     }
 
-   /* public void NextDay()
+    public void NextDay()
     {
-        if (day + 1 < this.maxDay)
-        {
-            ++day;
-            RoomManager.Instance.NextRoom();
-            UIManager.Instance.UpdateText(day);
-        }else if(day + 1 == this.maxDay)
+        if (day + 1 == 5 || day + 1 == 7 || day + 1 == 8 || day + 1 == 9 || day + 1 == 10 || day + 1 == 11 || day + 1 == 12 || day + 1 == 13 || day + 1 == 15)
         {
             ++day;
             UIManager.Instance.PopUp();
-            UIManager.Instance.UpdateText(day);
+            //UIManager.Instance.UpdateText(day);
         }
+        else if (day + 1 < this.maxDay)
+        {
+            ++day;
+            RoomManager.Instance.NextRoom(0);
+            //UIManager.Instance.UpdateText(day);
+        } 
     }
 
-    public void PreviousDay()
+    /*public void PreviousDay()
     {
         if(day == maxDay)
         {

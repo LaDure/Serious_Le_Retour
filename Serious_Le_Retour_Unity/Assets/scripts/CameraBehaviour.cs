@@ -10,16 +10,18 @@ public class CameraBehaviour : MonoBehaviour
 
     public Transform CameraTarget;
 
+    private Vector3 origin;
+
 
     private void Awake()
     {
         this.target.transform.position = Camera.main.ScreenToWorldPoint(
-                new Vector3(Screen.width * 0.5f, Screen.height * 0.5f, 10.0f));     
+                new Vector3(Screen.width * 0.5f, Screen.height * 0.5f, 10.0f));       
     }
 
     private void Update()
     {
-        //this.UpdateInput();
+        this.UpdateInput();
     }
 
     private void UpdateInput()
@@ -66,6 +68,13 @@ public class CameraBehaviour : MonoBehaviour
 
     public void Init()
     {
+        origin = Camera.main.transform.position;
         StartCoroutine(SlideTo(CameraTarget.position));
+    }
+
+    public void GoToOrigin()
+    {
+        Camera.main.transform.position = origin;
+        Camera.main.transform.LookAt(target.transform);
     }
 }
